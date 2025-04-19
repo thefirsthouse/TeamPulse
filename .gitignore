@@ -2,3 +2,5 @@ env/
 teampulse/gui/__pycache__/
 teampulse/teampulse/__pycache__/
 teampulse/gui/migrations/__pycache__/
+teampulse/db.sqlite3
+colors.txt
