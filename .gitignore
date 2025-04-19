@@ -4,3 +4,5 @@ teampulse/teampulse/__pycache__/
 teampulse/gui/migrations/__pycache__/
 teampulse/db.sqlite3
 colors.txt
+teampulse/accounts/__pycache__/
+teampulse/accounts/migrations/__pycache__/

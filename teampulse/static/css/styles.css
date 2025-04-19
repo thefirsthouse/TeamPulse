@@ -108,4 +108,38 @@
   body {
     padding-top: 80px; /* чтобы контент не прилипал под navbar */
   }
+
+  .error-message {
+    background-color: #420000;
+    color: #ff7777;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    text-align: center;
+  }
+  
+  .password-wrapper {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+  
+  .toggle-password {
+    background: transparent;
+    border: none;
+    color: var(--secondary-b-0);
+    font-size: 1.2rem;
+    cursor: pointer;
+  }
+  
+  .register-text {
+    text-align: center;
+    color: #ccc;
+    font-size: 0.9rem;
+  }
+  
+  .register-text a {
+    color: var(--secondary-a-0);
+    text-decoration: none;
+    font-weight: bold;
+  }
   
